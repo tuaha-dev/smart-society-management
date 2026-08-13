@@ -89,11 +89,11 @@ Access the application in your browser at `http://127.0.0.1:8000`.
 
 ## Login Credentials
 
-| Role     | Password |
-| -------- | -------- |
-| Admin    | password |
-| Resident | password |
-| Guard    | password |
+|   Role   |  Password   |
+| -------- | ----------- |
+| Admin    | password123 |
+| Resident | password123 |
+| Guard    | password123 |
 
 ---
 
